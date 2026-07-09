@@ -94,3 +94,7 @@ Nome é a variável (caixa) e Nutella é o valor guardado na caixa.
 
 Idade é a Variável e 7 é valor armazenado 
 
+
+]
+}]
+

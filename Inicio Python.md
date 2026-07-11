@@ -24,7 +24,7 @@ print(7)
 
 
 
-para escrever a sequencia (Nutella 7 anos) o print deve seguir a regra das asas e virgula 
+para escrever a sequencia (Nutella 7 anos) o print deve seguir a regra das aspas e virgula 
 
 
 
@@ -95,6 +95,5 @@ Nome é a variável (caixa) e Nutella é o valor guardado na caixa.
 Idade é a Variável e 7 é valor armazenado 
 
 
-]
-}]
+
 

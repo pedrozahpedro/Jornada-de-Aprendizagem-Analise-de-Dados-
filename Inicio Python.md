@@ -140,7 +140,7 @@ Decimal: float(input())
 
 
 
-** ESTRUTURAS CONDICIONAIS
+**ESTRUTURAS CONDICIONAIS**
 
 
 
@@ -160,7 +160,7 @@ Decimal: float(input())
 
 
 
-** Exemplo de sintaxe
+**Exemplo de sintaxe**
 
 
 
@@ -178,7 +178,7 @@ else:
 
 
 
-** Exemplo
+**Exemplo**
 
 
 
@@ -242,7 +242,7 @@ Neste exemplo:
 
 
 
-** Elif
+**Elif**
 
 
 
@@ -284,7 +284,7 @@ else:
 
 
 
-** Exemplo
+**Exemplo**
 
 
 
@@ -314,7 +314,7 @@ else:
 
 
 
-** OPERADORES LÓGICOS
+**OPERADORES LÓGICOS**
 
 
 
@@ -404,7 +404,7 @@ Quando o enunciado utilizar as palavras:
 
 
 
-** OPERADOR IN
+**OPERADOR IN**
 
 
 
@@ -464,7 +464,7 @@ else:
 
 
 
-** Outro exemplo
+**Outro exemplo**
 
 
 
@@ -492,7 +492,7 @@ O operador `in` sempre responde à pergunta:
 
 
 
-****Estrutura de Repetição**
+**Estrutura de Repetição**
 
 
 
@@ -500,7 +500,7 @@ While : O laço While é uma estrutura de repetição em python que permite exec
 
 
 
-ESTRUTURA:
+**ESTRUTURA:**
 
 
 
@@ -510,7 +510,7 @@ while condição:
 
 
 
-EXEMPLO
+**EXEMPLO**
 
 
 
@@ -528,7 +528,7 @@ For : O laço for é um tipo de estrutura de controle de fluxo que permite inter
 
 
 
-ESTRUTURA:
+**ESTRUTURA:**
 
 
 
